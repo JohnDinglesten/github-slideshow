@@ -1,5 +1,6 @@
+---
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+JohnD4U
 Use the left arrow to go back!
